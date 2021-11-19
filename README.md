@@ -4,3 +4,4 @@ ____
 [Структуры данных:](https://github.com/Gandalf329/Algorithms/tree/main/data%20structure)
 
 * [Односвязный список](https://github.com/Gandalf329/Algorithms/blob/main/data%20structure/LinkedList.cs)
+* [Двусвязный список](https://github.com/Gandalf329/Algorithms/blob/main/data%20structure/DoublyLinkedList.cs)
