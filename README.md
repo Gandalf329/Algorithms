@@ -6,3 +6,6 @@ ____
 * [Односвязный список](https://github.com/Gandalf329/Algorithms/blob/main/data%20structure/LinkedList.cs)
 * [Двусвязный список](https://github.com/Gandalf329/Algorithms/blob/main/data%20structure/DoublyLinkedList.cs)
 * [Динамический массив](https://github.com/Gandalf329/Algorithms/blob/main/data%20structure/DynamicArray.cs)
+* Стек(Stack)
+* Очередь(Queue)
+* Дек(Deque)
