@@ -9,6 +9,11 @@ ____
 * Стек(Stack)
 * Очередь(Queue)
 * Дек(Deque)
+
 ____
 [Алгоритмы поиска:](https://github.com/Gandalf329/Algorithms/tree/main/search)
 * [Бинарный поиск](https://github.com/Gandalf329/Algorithms/blob/main/search/binarySearch.cs)
+
+____
+[Алгоритмы сортировки:](https://github.com/Gandalf329/Algorithms/tree/main/sort)
+* [Сортировка слиянием(Merge Sort)](https://github.com/Gandalf329/Algorithms/blob/main/sort/MergeSort.cs)
